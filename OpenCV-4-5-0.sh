@@ -29,6 +29,9 @@ sudo apt-get install -y liblapack-dev gfortran libhdf5-dev
 sudo apt-get install -y libprotobuf-dev libgoogle-glog-dev libgflags-dev
 sudo apt-get install -y protobuf-compiler
 
+sudo apt-get install qtbase5-dev
+
+sudo apt-get install qtdeclarative5-dev
 # remove old versions
 cd ~ 
 sudo rm -rf opencv*
